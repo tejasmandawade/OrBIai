@@ -1,6 +1,6 @@
 # OrBIai
 
-A simple chat application powered by LLaMA 3 via Ollama.
+A simple chat application powered by LLaMA 2 via Ollama.
 
 ## Project Structure
 
@@ -27,7 +27,7 @@ orbiai/
 
 - Python 3.8+ for the backend
 - Node.js 16+ for the frontend
-- [Ollama](https://ollama.ai/) installed and running with LLaMA 3 model pulled
+- [Ollama](https://ollama.ai/) installed and running with LLaMA 2 model pulled
 
 ## Installation
 
