@@ -10,7 +10,7 @@ router = APIRouter(prefix="/api", tags=["chat"])
 @router.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest):
     """
-    Chat with LLaMA 3 model via Ollama
+    Chat with LLaMA 2 model via Ollama
     """
     try:
         response = await get_llm_response(request.messages)

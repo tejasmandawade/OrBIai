@@ -52,14 +52,14 @@ const ChatInterface = () => {
   return (
     <div className="max-w-3xl mx-auto bg-white rounded-lg shadow-md overflow-hidden">
       <div className="p-4 bg-gray-100 border-b">
-        <h2 className="text-lg font-semibold">Chat with LLaMA 3</h2>
+        <h2 className="text-lg font-semibold">Chat with LLaMA 2</h2>
       </div>
       
       <div className="h-[60vh] overflow-y-auto p-4">
         {messages.length === 0 ? (
           <div className="text-center text-gray-500 mt-20">
             <p className="text-xl mb-2">Welcome to OrBIai</p>
-            <p>Ask me anything using LLaMA 3!</p>
+            <p>Ask me anything using LLaMA 2!</p>
           </div>
         ) : (
           messages.map((message, index) => (

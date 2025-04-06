@@ -19,7 +19,7 @@ const ChatMessage = ({ message }) => {
           )}
         </div>
         <div>
-          <p className="font-semibold text-sm mb-1">{isUser ? 'You' : 'LLaMA 3'}</p>
+          <p className="font-semibold text-sm mb-1">{isUser ? 'You' : 'LLaMA 2'}</p>
           <div className="text-sm whitespace-pre-wrap">{content}</div>
         </div>
       </div>

@@ -6,7 +6,7 @@ A simple chat application powered by LLaMA 2 via Ollama.
 
 ```
 orbiai/
-├── backend/         # FastAPI backend with LLaMA 3 via Ollama
+├── backend/         # FastAPI backend with LLaMA 2 via Ollama
 │   ├── app/
 │   │   ├── api/     # Routes
 │   │   ├── models/  # Data models
@@ -52,10 +52,10 @@ cd frontend
 npm install
 ```
 
-### 4. Pull LLaMA 3 in Ollama (if not already done)
+### 4. Pull LLaMA 2 in Ollama (if not already done)
 
 ```bash
-ollama pull llama3
+ollama pull llama2
 ```
 
 ## Running the Application
@@ -86,7 +86,7 @@ http://localhost:5173
 You can customize the behavior by editing the `.env` file:
 
 - `OLLAMA_API_URL`: URL of the Ollama API (default: http://localhost:11434/api/chat)
-- `LLAMA_MODEL`: Name of the model to use (default: llama3)
+- `LLAMA_MODEL`: Name of the model to use (default: llama2)
 - `VITE_BACKEND_URL`: URL of the backend API (default: http://localhost:8000)
 
 ## License

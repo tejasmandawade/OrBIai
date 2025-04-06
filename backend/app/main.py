@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-app = FastAPI(title="OrBIai API", description="FastAPI backend with LLaMA 3 via Ollama")
+app = FastAPI(title="OrBIai API", description="FastAPI backend with LLaMA 2 via Ollama")
 
 # Configure CORS
 app.add_middleware(
