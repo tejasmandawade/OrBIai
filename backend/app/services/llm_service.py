@@ -6,11 +6,11 @@ from app.models.request_models import Message
 
 # Get the Ollama API URL from environment variables or use default
 OLLAMA_API_URL = os.getenv("OLLAMA_API_URL", "http://localhost:11434/api/chat")
-LLAMA_MODEL = os.getenv("LLAMA_MODEL", "llama3")
+LLAMA_MODEL = os.getenv("LLAMA_MODEL", "llama2")
 
 async def get_llm_response(messages: List[Message]) -> str:
     """
-    Get a response from LLaMA 3 via Ollama API
+    Get a response from LLaMA 2 via Ollama API
     """
     # Format messages for Ollama API
     formatted_messages = [{"role": msg.role, "content": msg.content} for msg in messages]

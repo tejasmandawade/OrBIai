@@ -1,0 +1,120 @@
+Tejas Mandawade
+
+
+tejasmandawade47@gmail.com
+9156917473
+Nashik, India
+
+
+
+------------------------
+AI/ML developer
+
+
+------------------------
+Detail-oriented AI/ML engineer with a strong focus on developing innovative machine learning and deep learning solutions. Proficient in Python for data-driven model development and experienced in full-stack development. Specializes in creating efficient, scalable systems and integrating intelligent algorithms into software applications. Skilled in translating complex data into actionable insights. Eager to contribute expertise in a dynamic team environment.
+
+
+Education
+------------------------
+B.Tech Computer Science
+MIT-ADT University
+11/2021 - Present
+Courses
+
+
+
+
+
+Personal Projects
+------------------------
+Image captioning generator
+- Engineered a Python-based application using TensorFlow/Keras to generate captions for images, achieving a BLEU Score of  0.718  and optimizing data management processes with Pickle, resulting in a 86%  improvement in processing time. 
+- <b>Key Skills:</b>  Python, VGG16, TensorFlow/Keras, Natural Language Processing (NLP), BLEU Score, Pickle 
+
+
+Brain Tumor Detection
+- Designed a deep learning model that increased diagnostic accuracy by 68%  through a Convolutional Neural Network analyzing medical imaging data, distinguishing tumor types from normal brain tissue, thus aiding medical professionals in early diagnosis and treatment planning. 
+- <b>Key Skills:</b>  Python, Convolutional Neural Network (CNN), NumPy, TensorFlow/Keras 
+
+
+FloodHawk::AI Models for Damage Detection and in Flood-Affected Areas
+10/2024 - Present
+-  Developed a real-time flood detection model using the FloodNet dataset.  
+-  Preprocessed data with resizing, normalization, and augmentation.  
+-  Trained the model using an 80/20 data split, employing the Adam optimizer with a learning rate of 0.001 and binary cross-entropy loss over 50 epochs.  
+-  Addressed data imbalance by applying weighted loss functions and conducted hyperparameter tuning for optimal accuracy and stability. 
+- <b>Key Skills:</b> Python , Convolutional Neural Networks (CNN) , Adam optimizer , Matplotlib/Seaborn ResNet-50 , OpenCV 
+
+
+
+
+
+Professional Involvement
+------------------------
+Persona publicity team member
+MIT-ADT University
+02/2022 - 2022
+Pune
+Achievements/Tasks
+- Spearheaded the design and production of promotional materials, increasing engagement. 
+- Coordinated   promotional   campaigns   targeting   8   colleges,   resulting   in increase of student   engagement   metrics   and   establishing   a   feedback   loop   that   helped   refine   future   event   strategies   for   improved   participation. 
+
+
+
+Volunteer at Induction Event
+MIT-ADT University
+2023
+Achievements/Tasks
+- Facilitated onboarding for new participants, ensuring a smooth transition into the event and addressing queries to enhance their experience. 
+- Contributed to the smooth execution of event activities, ensuring they ran on schedule. 
+
+
+
+
+
+
+Skills
+------------------------
+-Python
+-Machine Learning
+-Figma
+-UI/UX
+-RDBMS
+-HTML
+-CSS
+-Deep Learning
+-GIT
+
+
+
+Certificates
+------------------------
+Exploratory Data Analysis for Machine Learning
+Coursera
+
+
+100 Days of Code: The Complete Python Pro Bootcamp
+Udemy
+
+
+
+
+
+Languages
+------------------------
+-English- (60/100)
+-Hindi- (80/100)
+-Marathi- (100/100)
+
+
+
+Interests
+------------------------
+-Photography
+-Video Editing
+-Networking
+-AI Research
+
+
+
